@@ -1,2 +1,2 @@
-# SC1007
-NTU sc1007 course related materials
+# NTU cs
+NTU computer science major course related materials
