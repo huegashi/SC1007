@@ -1,2 +1,2 @@
-# NTU cs
-NTU cs course related materials
+# NTU cs sc1007
+NTU cs sc1007 course related materials
