@@ -1,2 +1,2 @@
 # NTU cs sc1007
-NTU cs sc1007 course related materials
+NTU SC1007 Data Structures and Algorithms course related materials
